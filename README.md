@@ -4,8 +4,8 @@ Este repositório contém o código-fonte do aplicativo mobile (React Native com
 
 ## 🔗 Links
 
-- **Repositório da Documentação:** [2025.2-Fuxi-Docs](https://github.com/fga-eps-mds/2025.2-Fuxi-Docs)
-- **Repositório da API:** [2025.2-Fuxi-API](https://github.com/fga-eps-mds/2025.2-Fuxi-API)
+- **Repositório da Documentação:** [Vitra-Docs](https://github.com/Pedrovargas10/Vitra-Docs)
+- **Repositório da API:** [Vitra-API](https://github.com/Pedrovargas10/Vitra-API)
 
 ## 🚀 Executar projeto...
 
